@@ -1,0 +1,350 @@
+[
+    {
+        "categorId": 1,
+        "category_name": "electronic",
+        "subcategori": [
+            {
+                "sub_categori_id": 1,
+                "sub_category_name": "smart_phone",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 2,
+                "sub_category_name": "laptop",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 3,
+                "sub_category_name": "watches",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 4,
+                "sub_category_name": "television",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 5,
+                "sub_category_name": "shirts",
+                "categori_id": 1
+            },
+            {
+                "sub_categori_id": 6,
+                "sub_category_name": "boots",
+                "categori_id": 1
+            },
+            {
+                "sub_categori_id": 7,
+                "sub_category_name": "trousers",
+                "categori_id": 1
+            }
+        ]
+    },
+    {
+        "categorId": 2,
+        "category_name": "clothes",
+        "subcategori": [
+            {
+                "sub_categori_id": 1,
+                "sub_category_name": "smart_phone",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 2,
+                "sub_category_name": "laptop",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 3,
+                "sub_category_name": "watches",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 4,
+                "sub_category_name": "television",
+                "categori_id": 2
+            },
+            {
+                "sub_categori_id": 5,
+                "sub_category_name": "shirts",
+                "categori_id": 1
+            },
+            {
+                "sub_categori_id": 6,
+                "sub_category_name": "boots",
+                "categori_id": 1
+            },
+            {
+                "sub_categori_id": 7,
+                "sub_category_name": "trousers",
+                "categori_id": 1
+            }
+        ]
+    },
+    {
+        "subCategorId": 1,
+        "subCategoryName": "smart_phone",
+        "products": [
+            {
+                "sub_category_id": 1,
+                "product_id": 4,
+                "product_name": "redmi 5",
+                "color": "black",
+                "price": "170",
+                "model": "xiomi"
+            },
+            {
+                "sub_category_id": 1,
+                "product_id": 5,
+                "product_name": "galaxy 7",
+                "color": "silver",
+                "price": "350",
+                "model": "samsung"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 6,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 7,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            }
+        ]
+    },
+    {
+        "subCategorId": 2,
+        "subCategoryName": "laptop",
+        "products": [
+            {
+                "sub_category_id": 1,
+                "product_id": 4,
+                "product_name": "redmi 5",
+                "color": "black",
+                "price": "170",
+                "model": "xiomi"
+            },
+            {
+                "sub_category_id": 1,
+                "product_id": 5,
+                "product_name": "galaxy 7",
+                "color": "silver",
+                "price": "350",
+                "model": "samsung"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 6,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 7,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            }
+        ]
+    },
+    {
+        "subCategorId": 3,
+        "subCategoryName": "watches",
+        "products": [
+            {
+                "sub_category_id": 1,
+                "product_id": 4,
+                "product_name": "redmi 5",
+                "color": "black",
+                "price": "170",
+                "model": "xiomi"
+            },
+            {
+                "sub_category_id": 1,
+                "product_id": 5,
+                "product_name": "galaxy 7",
+                "color": "silver",
+                "price": "350",
+                "model": "samsung"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 6,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 7,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            }
+        ]
+    },
+    {
+        "subCategorId": 4,
+        "subCategoryName": "television",
+        "products": [
+            {
+                "sub_category_id": 1,
+                "product_id": 4,
+                "product_name": "redmi 5",
+                "color": "black",
+                "price": "170",
+                "model": "xiomi"
+            },
+            {
+                "sub_category_id": 1,
+                "product_id": 5,
+                "product_name": "galaxy 7",
+                "color": "silver",
+                "price": "350",
+                "model": "samsung"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 6,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 7,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            }
+        ]
+    },
+    {
+        "subCategorId": 5,
+        "subCategoryName": "shirts",
+        "products": [
+            {
+                "sub_category_id": 1,
+                "product_id": 4,
+                "product_name": "redmi 5",
+                "color": "black",
+                "price": "170",
+                "model": "xiomi"
+            },
+            {
+                "sub_category_id": 1,
+                "product_id": 5,
+                "product_name": "galaxy 7",
+                "color": "silver",
+                "price": "350",
+                "model": "samsung"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 6,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 7,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            }
+        ]
+    },
+    {
+        "subCategorId": 6,
+        "subCategoryName": "boots",
+        "products": [
+            {
+                "sub_category_id": 1,
+                "product_id": 4,
+                "product_name": "redmi 5",
+                "color": "black",
+                "price": "170",
+                "model": "xiomi"
+            },
+            {
+                "sub_category_id": 1,
+                "product_id": 5,
+                "product_name": "galaxy 7",
+                "color": "silver",
+                "price": "350",
+                "model": "samsung"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 6,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 7,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            }
+        ]
+    },
+    {
+        "subCategorId": 7,
+        "subCategoryName": "trousers",
+        "products": [
+            {
+                "sub_category_id": 1,
+                "product_id": 4,
+                "product_name": "redmi 5",
+                "color": "black",
+                "price": "170",
+                "model": "xiomi"
+            },
+            {
+                "sub_category_id": 1,
+                "product_id": 5,
+                "product_name": "galaxy 7",
+                "color": "silver",
+                "price": "350",
+                "model": "samsung"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 6,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            },
+            {
+                "sub_category_id": 3,
+                "product_id": 7,
+                "product_name": "XDL 2303",
+                "color": "black",
+                "price": "500",
+                "model": "LG"
+            }
+        ]
+    }
+]

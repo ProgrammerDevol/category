@@ -1,0 +1,11 @@
+[
+    {
+        "user_id": 1,
+        "contact": "995309229",
+        "gender": 1,
+        "birth": "2005-11-05",
+        "username": "abdulaziz",
+        "password": "11112345",
+        "email": "abdulaziz@gmail.com"
+    }
+]
