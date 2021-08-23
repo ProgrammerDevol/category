@@ -48,7 +48,7 @@ const SUBCATEGORIGET = (req,res) =>{
 	let products = fs.readFileSync(path.join(process.cwd(),'src','database','products.json'),"utf-8")
 	products = products ? JSON.parse(products) : []
 	let subcategories = fs.readFileSync(path.join(process.cwd(),'src','database','subcategories.json'),"utf-8")
-	let subcategoriget = fs.readFileSync(path.join(process.cwd(),'src','database','getcategori.json'),"utf-8")
+	let subcategoriget = fs.readFileSync(path.join(process.cwd(),'src','database','subcategoriget.json'),"utf-8")
 	//let categoriesget = fs.readFileSync(path.join(process.cwd(),'src','database','categorisget.json'),"utf-8")
 	subcategories = subcategories ? JSON.parse(subcategories) : []
 	subcategoriget  =  subcategoriget ? JSON.parse(subcategoriget ) : []
